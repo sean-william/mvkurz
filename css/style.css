@@ -66,13 +66,13 @@ body {
   position:static;
 }
 .copyright{
-  background-color:rgba(0, 0, 0, 0.15);
-  color:rgba(238, 238, 238, 0.5);
-  bottom:0;
-  padding:0 0 0 0;
-  position:absolute;
-  width:100%;
-  font-size:0.75em;
+  padding-top:70px;
+  text-align:right;
+  font-size:12px;
+  float:right;
+  display:inline;
+  top:0;
+  
 }
 .form{
   border-radius:3px;
@@ -179,17 +179,15 @@ body{
 }
 .navbar-items-c{
   float:right;
-  background-color:#000000;
+  background-color:rgba(0,0,0,1);
   position:fixed;
   display:inline-block;
 }
 .navbar{
-  color:#ddd;
   min-height:80px;
   width:100%;
   margin:-35px 0 0 0;
-  opacity:1;
-  background-color:rgba(0,0,0,0.8);
+  background-color:rgba(0,0,0,1);
   position:fixed;
   display:block;
 }
@@ -209,7 +207,7 @@ body{
   padding:10px 0;
   float:right;
   margin:12px auto 0 auto;
-  background-color:rgba(0,0,0,0.8);
+  background-color:none;
   display:block;
   right:0;
   left:800px;
@@ -270,10 +268,7 @@ body{
 #ima0jj:hover{
   background-color:#48efac;
 }
-#igldsj{
-  padding:10px;
-  text-align:right;
-}
+
 .row{
   display:flex;
   justify-content:flex-start;
@@ -488,13 +483,14 @@ body{
   margin:0 auto 0 auto;
 }
 #irinz2{
-  padding:10px;
+  padding:5px;
   font-size:50px;
   letter-spacing:5px;
   text-align:center;
   font-family:Trebuchet MS, Helvetica, sans-serif;
 }
 #product{
+  padding:100px;
   margin:100px 0 0 0;
   position:static;
 }
@@ -512,6 +508,7 @@ body{
   min-height:auto;
 }
 #company{
+  padding:100px;
   margin:100px 0 0 0;
   display:block;
   position:static;
@@ -548,7 +545,7 @@ body{
   width:auto;
 }
 #contact{
-  padding:10px;
+  padding:50px;
   text-align:center;
   font-size:50px;
   font-family:Trebuchet MS, Helvetica, sans-serif;
