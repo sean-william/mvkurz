@@ -495,7 +495,7 @@ body{
   position:static;
 }
 #iv3sqo{
-  padding:10px 10px 10px 10px;
+  padding:10px 10px 0px 10px;
   font-size:50px;
   font-family:Trebuchet MS, Helvetica, sans-serif;
   letter-spacing:4px;
@@ -507,6 +507,14 @@ body{
   text-decoration:none;
   min-height:auto;
 }
+
+#border{
+  padding-top: 20px;
+  border-bottom: 1px solid grey;
+  width:8%;
+  margin:auto;
+}
+
 #company{
   padding:100px;
   margin:100px 0 0 0;
