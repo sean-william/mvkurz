@@ -501,7 +501,7 @@ body{
   letter-spacing:4px;
   margin:0 0 0;
   font-weight:300;
-  position:relative;
+  position:static;
   text-align:center;
   display:block;
   text-decoration:none;
@@ -515,14 +515,16 @@ body{
 }
 #i2tm97{
   padding:25px 10px 25px 10px;
-  margin:0 0 0 0;
+  margin:16px 0 20px 0;
   width:800px;
-  letter-spacing:1px;
+  letter-spacing:0.3px;
   font-family:Helvetica, serif;
   color:#444444;
-  position:relative;
+  position:static;
   float:none;
   display:inline-block;
+  line-height:22px;
+  
 }
 #i0omc4{
   color:black;
@@ -539,7 +541,7 @@ body{
 }
 #ifr0bx{
   flex-basis:70%;
-  position:relative;
+  position:static;
   margin:0 auto 0 auto;
   display:block;
   width:auto;
