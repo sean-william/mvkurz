@@ -522,7 +522,7 @@ body{
 }
 #i2tm97{
   padding:25px 10px 25px 10px;
-  margin:16px 0 20px 0;
+  margin:16px 0 20px -450px;
   width:800px;
   letter-spacing:0.3px;
   font-family:Helvetica, serif;
@@ -532,16 +532,6 @@ body{
   display:inline-block;
   line-height:22px;
   
-}
-#i0omc4{
-  color:black;
-  width:150px;
-  height:auto;
-  left:0;
-  position:static;
-  top:0;
-  margin:60px 0 50px 250px;
-  display:inline;
 }
 
 #ifr0bx{
@@ -666,11 +656,20 @@ body{
   padding:0 0 0 0;
   margin:0 auto 0 auto;
 }
+#i0omc4{
+  color:black;
+  width:150px;
+  height:auto;
+  position:static;
+  margin:60px 0 125px 250px;
+  display:inline;
+}
+
 #iz60b6{
   color:black;
   width:auto;
   position:static;
-  margin:20px 0 0 250px;
+  margin:0 0 0 -165px;
   display:inline;
 }
 @media (max-width: 992px){
