@@ -678,7 +678,7 @@ body{
 }
 @media (max-width: 992px){
   #iw5211g{
-    width:10%;
+    width:900px;
     top:-70px;
   }
 }
@@ -688,10 +688,10 @@ body{
   }
   .navbar-items-c{
     display:none;
-    width:80%;
+    width:730px;
   }
   .navbar-menu{
-    width:80%;
+    width:768px;
   }
   .navbar-menu-link{
     display:block;
@@ -702,7 +702,7 @@ body{
 }
 @media (max-width: 480px){
   #iw5211g{
-    width:5%;
+    width:450px;
     left:15px;
     top:-65px;
   }
